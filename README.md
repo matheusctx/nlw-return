@@ -1,4 +1,4 @@
-![cover](.github/cover.png?style=flat)
+![cover](./cover.png?style=flat)
 
 <h1 align="center">
 	Feedback Widget - NLW Return Impulse
